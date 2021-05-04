@@ -99,3 +99,7 @@ footer {
 .underline {
   text-decoration: underline black;
 }
+
+p {
+  text-align: justify;
+}
